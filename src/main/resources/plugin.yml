@@ -1,0 +1,6 @@
+name: AntiCommand
+main: com.makerzip.antiplugin.Main
+author: MakerZip
+api-version: '1.13'
+version: 1.0
+commands:

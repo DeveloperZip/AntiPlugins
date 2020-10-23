@@ -1,0 +1,6 @@
+PluginsMessage:
+  Message: "Plugins (3): &aProtocolLib&f, &aWorldEdit&f, &aAntiPlugin"
+HelpMessage:
+  Message: "&f---------&a{ &e도움말 &a}&f---------\n
+  &6/help&f : 도움말\n
+  "
